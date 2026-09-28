@@ -1,0 +1,15 @@
+An error occured during Script Loading.
+Date : 28/09/2026 21:44:08
+Error type : Errno::ENOENT
+Error message : No such file or directory @ rb_sysopen - Data/tracker.json
+RMXP/97355 MessageFaces.rb:127:in `read'
+RMXP/97355 MessageFaces.rb:127:in `<class:PkmnFace>'
+RMXP/97355 MessageFaces.rb:49:in `<module:ParsePropertiesPkmnFaces>'
+RMXP/97355 MessageFaces.rb:1:in `<compiled>'
+UNKNOWN/Game/Boot.rb:726:in `eval'
+UNKNOWN/Game/Boot.rb:726:in `block in <compiled>'
+UNKNOWN/Game/Boot.rb:725:in `each'
+UNKNOWN/Game/Boot.rb:725:in `each_with_index'
+UNKNOWN/Game/Boot.rb:725:in `<compiled>'
+Game.rb:1:in `eval'
+Game.rb:1:in `<main>'
